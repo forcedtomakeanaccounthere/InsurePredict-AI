@@ -11,35 +11,30 @@
 
 **Project Plan & Work Division:**
 
-1. **Research & Data Collection (Week 1-2)**
+1. **Research & Data Collection (Week 1)**
    - Gather customer data from insurance providers.
    - Explore churn prediction techniques.
    - Research best practices for recommender systems.
 
-2. **Data Preprocessing & Model Development (Week 3-5)**
+2. **Data Preprocessing & Model Development (Week 1-2)**
    - Data cleaning and feature engineering.
    - Implement machine learning models for churn prediction.
    - Train and evaluate different models for accuracy.
    - Develop a recommender system for personalized offers.
 
-3. **Model Integration & Backend Development (Week 6-7)**
+3. **Model Integration & Backend Development (Week 3-4)**
    - Build APIs to integrate the ML model with the web application.
    - Ensure smooth communication between the database, model, and front end.
 
-4. **Website Development (Week 8-10)**
+4. **Website Development (Week 5-6)**
    - **Frontend Development:** Design and implement the UI.
    - **Backend Development:** Develop user authentication, data input features, and API integration.
    - Ensure a seamless user experience for both customers and insurance companies.
 
-5. **Testing & Deployment (Week 11-12)**
+5. **Testing & Deployment (Week 6)**
    - Conduct rigorous testing for model accuracy and website functionality.
    - Deploy the ML model and web application.
    - Gather user feedback and make necessary improvements.
-
-6. **Final Review & Launch (Week 13)**
-   - Conduct a final review and performance check.
-   - Officially launch the InsurePredict AI system.
-   - Prepare documentation for future updates and maintenance.
 
 **Work Division Among Team Members:**
 
