@@ -1,6 +1,13 @@
 # InsurePredict-AI
 
 **Project Name: InsurePredict AI**
+SPoC: Sai Ananya Katakam
+Team Members: 
+1. Shreeyan
+2. Likith
+3. Abhishek
+4. Sukhmani
+            
 
 **Project Objectives:**
 - Develop a machine learning model for predicting customer churn in an insurance company.
@@ -38,11 +45,11 @@
 
 **Work Division Among Team Members:**
 
-- **Member 1:** Data Collection & Preprocessing
-- **Member 2:** Machine Learning Model Development
-- **Member 3:** Recommender System Implementation
-- **Member 4:** Backend Development & API Integration
-- **Member 5:** Frontend Development & UI/UX Design
+- **Shreeyan:** Data Collection & Preprocessing
+- **Likhith:** Machine Learning Model Development
+- **Abhishek:** Recommender System Implementation
+- **Ananya:** Backend Development & API Integration
+- **Sukhmani:** Frontend Development & UI/UX Design
 
 **Key Features & Deliverables:**
 - **Churn Prediction Model:** A highly accurate model for predicting customer churn.
