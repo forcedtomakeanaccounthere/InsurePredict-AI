@@ -1,7 +1,10 @@
 # InsurePredict-AI
 
 **Project Name: InsurePredict AI**
+
 SPoC: Sai Ananya Katakam
+
+
 Team Members: 
 1. Shreeyan
 2. Likith
